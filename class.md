@@ -1,1 +1,0 @@
-stefanos version control certificate
